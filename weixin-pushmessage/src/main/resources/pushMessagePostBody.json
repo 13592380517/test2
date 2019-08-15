@@ -1,0 +1,20 @@
+{
+  "openidlist":["oXSQAv9oqehFzif6TDrDlMlK3wDM"],
+  "template_id":"5qAk7Z360gmRqI9o1y_jtGjsAp9W1oyk6SPJ3uYLumA",
+  "url":"http://www.baidu.com",
+  "data":{
+    "first": {
+      "value":"2019年全国XXX业余大赛",
+      "color":"#173177"
+    },
+    "keyword1":{
+      "value":"2019年XXX业余大赛将于北京举行",
+      "color":"#FF0000"
+    },
+    "keyword2":{
+
+      "value":"欢迎报名参加！",
+      "color":"#173177"
+    }
+  }
+}
